@@ -1,14 +1,17 @@
-![CF](http://i.imgur.com/7v5ASc8.png) LAB
+![CF](http://i.imgur.com/7v5ASc8.png) LAB 28
 =================================================
 
-## Project Name
+## Lab 28: Props and State
 
-### Author: Student/Group Name
+### Author: Ryan Gallaway
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
+
+[![Build Status](https://www.travis-ci.com/rkgallaway/28-props-and-state.svg?branch=master)](https://www.travis-ci.com/rkgallaway/28-props-and-state)
+
+* [repo](https://github.com/rkgallaway/28-props-and-state)
+* [travis](https://www.travis-ci.com/rkgallaway/28-props-and-state)
+<!-- * [back-end](http://xyz.com)
 * [front-end](http://xyz.com)
 
 ### Modules
@@ -25,8 +28,8 @@ Usage Notes or examples
 #### `.env` requirements
 * `PORT` - Port Number
 * `MONGODB_URI` - URL to the running mongo instance/db
-
-#### Running the app
+ -->
+<!-- #### Running the app
 * `npm start`
 * Endpoint: `/foo/bar/`
   * Returns a JSON object with abc in it.
@@ -36,7 +39,11 @@ Usage Notes or examples
 #### Tests
 * How do you run tests?
 * What assertions were made?
-* What assertions need to be / should be made?
+* What assertions need to be / should be made? -->
+
+### Code Sandbox links:
+* [assignment 1 part 1:](https://codesandbox.io/s/r0732zjl5q)
+* [assignment 1 part 2:](https://codesandbox.io/s/0oz578v7op)
 
 #### UML
-Link to an image of the UML for your application and response to events
+Link to an image of the UML for your application and response to events.  images coming soon
